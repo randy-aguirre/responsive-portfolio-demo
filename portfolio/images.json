@@ -1,0 +1,164 @@
+{
+    "images": [
+        {
+            "source": "./portfolio/photo-1.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-2.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-3.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-4.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-5.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-6.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-7.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-8.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-9.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/photo-10.jpg",
+            "type": "photo"
+        },
+        {
+            "source": "./portfolio/branding-1.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-2.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-3.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-4.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-5.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-6.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-7.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-8.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-9.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/branding-10.jpg",
+            "type": "branding"
+        },
+        {
+            "source": "./portfolio/app-1.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-2.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-3.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-4.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-5.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-6.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-7.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-8.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-9.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/app-10.jpg",
+            "type": "app"
+        },
+        {
+            "source": "./portfolio/web-1.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-2.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-3.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-4.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-5.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-6.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-7.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-8.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-9.jpg",
+            "type": "web"
+        },
+        {
+            "source": "./portfolio/web-10.jpg",
+            "type": "web"
+        }
+    ]
+}
