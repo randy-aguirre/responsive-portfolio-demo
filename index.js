@@ -186,6 +186,10 @@ let rowLayoutSelector = document.getElementsByClassName("row-selector")[0];
 
 let seeMore = document.getElementsByClassName("see-more")[0];
 
+document.addEventListener('DOMContentLoaded', () => {
+    getAllData(layoutOption);
+}, false);
+
 allSelector.addEventListener("click", (e) => {
     e.preventDefault();
     e.stopImmediatePropagation();
